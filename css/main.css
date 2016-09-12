@@ -1,0 +1,126 @@
+/* estilos header */
+*{
+	font-family: 'Roboto';
+}
+a{
+	text-decoration: none;
+	cursor: pointer;
+}
+.box-uno{
+	background-size: cover;
+	background-image: url(../img/fotos/wall-grumpy.jpg);
+	background-position: center 80%;
+}
+.btn {
+	color: white;
+	font-size: 14px;
+	background-color: #AF5F60;
+	padding: 5px 20px;
+	text-decoration: none;
+	margin-right: 100px;
+}
+.btn:hover {
+ 	background: #DCB37F;
+ 	text-decoration: none;
+ 	transition: all 0.7s ease 0s;
+}
+.boton{
+	margin-top: 50px;
+}
+/* estilos menú */
+.menu{
+	text-align: right;
+}
+.menu ul li a{
+	color: white;
+}
+.menu a:hover{
+	color: #DCB37F;
+	transition: all 0.7s ease 0s;
+}
+.menu ul li{
+	text-decoration: none; 
+	display: inline-block;
+	margin-left: 10%;
+}
+.menu{
+	margin-top: 50px;
+}
+/* laboratoria centrado */
+.lab a h1{
+	font-size: 35px;
+}
+.centrado{
+	text-align: center;
+}
+.lab{
+	margin: 200px 0;
+}
+.lab a{
+	color: white;
+}
+.lab a:hover{
+	color: #C17C6C;
+	transition: all 0.7s ease 0s;
+}
+
+/* estilos seccion 2 */
+.box-dos{
+	background-color: #EAEAE9;
+	padding-bottom: 50px;
+}
+.cont{
+	text-align: center;
+}
+.coder img{
+	width: 70%;
+	margin-top: 20px;
+}
+.coder h3, .coder p{
+	margin: 0 40px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.coder{
+	background-color: white;
+	margin-top: 50px;
+	background-size: 100%;
+	height: 460px;
+	box-shadow: 0px 0px 5px 5px #CBCED4;
+}
+.btn-mas{
+	color: white;
+	font-size: 12px;
+	background-color: #AF5F60;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+.btn-mas:hover {
+ 	background: #DCB37F;
+ 	transition: all 0.7s ease 0s;
+}
+.uno{
+	margin: 0 10px;
+	margin-top: 50px;
+}
+.dos{
+	margin: 0 10px;
+	margin-top: 50px;
+}
+.tres{
+	margin: 0 10px;
+	margin-top: 5px;
+}
+.cuatro{
+	margin: 0 10px;
+	margin-top: 5px;
+}
+/* footer */
+.box-tres{
+	background-color: #262624;
+}
+footer p{
+	color: #C17C6C;
+	font-size: 12px;
+	margin: 40px 0;
+}
