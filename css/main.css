@@ -73,7 +73,8 @@ a{
 	text-align: center;
 }
 .coder img{
-	width: 70%;
+	height: 300px;
+	width: 300px;
 	margin-top: 20px;
 }
 .coder h3, .coder p{
