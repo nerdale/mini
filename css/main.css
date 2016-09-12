@@ -8,19 +8,19 @@ a{
 }
 .box-uno{
 	background-size: cover;
-	background-image: url(../img/fotos/wall-grumpy.jpg);
+	background-image: url(../img/fotos/sci_fi-wallpaper-1920x1080.jpg);
 	background-position: center 80%;
 }
 .btn {
 	color: white;
 	font-size: 14px;
-	background-color: #AF5F60;
+	background-color: #BB357F;
 	padding: 5px 20px;
 	text-decoration: none;
 	margin-right: 100px;
 }
 .btn:hover {
- 	background: #DCB37F;
+ 	background-color: #E73F9F;
  	text-decoration: none;
  	transition: all 0.7s ease 0s;
 }
@@ -35,7 +35,7 @@ a{
 	color: white;
 }
 .menu a:hover{
-	color: #DCB37F;
+	background-color: #BB357F;
 	transition: all 0.7s ease 0s;
 }
 .menu ul li{
@@ -48,7 +48,7 @@ a{
 }
 /* laboratoria centrado */
 .lab a h1{
-	font-size: 35px;
+	font-size: 50px;
 }
 .centrado{
 	text-align: center;
@@ -60,10 +60,9 @@ a{
 	color: white;
 }
 .lab a:hover{
-	color: #C17C6C;
+	color: #BB357F;
 	transition: all 0.7s ease 0s;
 }
-
 /* estilos seccion 2 */
 .box-dos{
 	background-color: #EAEAE9;
