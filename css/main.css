@@ -90,12 +90,12 @@ a{
 .btn-mas{
 	color: white;
 	font-size: 12px;
-	background-color: #AF5F60;
+	background-color: #BB357F;
 	padding: 5px 10px;
 	text-decoration: none;
 }
 .btn-mas:hover {
- 	background: #DCB37F;
+ 	background-color: #E73F9F;
  	transition: all 0.7s ease 0s;
 }
 .uno, .dos{
@@ -110,7 +110,7 @@ a{
 	background-color: #262624;
 }
 footer p{
-	color: #C17C6C;
+	color: #DDE3E5;
 	font-size: 12px;
 	margin: 40px 0;
 }
